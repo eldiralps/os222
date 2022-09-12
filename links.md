@@ -1,4 +1,4 @@
-permalink: /LINKS/
+permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Eldira Lahanny P S</span>
 <br><br>
