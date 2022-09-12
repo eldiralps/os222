@@ -3,7 +3,7 @@ permalink: /LINKS/
 <span style="color:red; font-weight:bold; font-size:larger;">By Eldira Lahanny P S</span>
 <br><br>
 [HOME](https://eldiralps.github.io/os222/) ---
-[LINKS](https://eldiralps.github.io/os222/LINKS) ---
+[LINKS](https://eldiralps.github.io/os222/LINKS/) ---
 [LOG](https://eldiralps.github.io/os222/TXT/mylog.txt) ---
 [GITHUB](https://github.com/eldiralps/os222)
 <br>
