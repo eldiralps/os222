@@ -19,6 +19,12 @@ There are several sub-chapters such as what operating systems is, dual-mode oper
 2. [WEEK 01](https://www.notion.so/Lecture-02-Virtual-Machines-b1c91dde244f43c686fd86fd9978abb8) <br>
 In week 01, we learn about emulation, virtualisation, types of VMMs, Implementing Virtualisation, and Virtualisation Problems.
 I highly recommend this site for those of you who have a penchant for learning through visuals like me.
+
+3. [WEEK 02 - Types of Cyber Attacks](https://www.youtube.com/watch?v=Dk-ZqQ-bfy4) <br>
+This video will give you more information about the most common types of cyber attacks. Eight most frequently cyber threats in the world are malware, phishing, password attacks, DDoS, Man in the middle, drive-by download, malvertising, and rouge software.
+
+4. [WEEK 02 - Pros and Cons of BYOD](https://www.youtube.com/watch?v=kVNDl7ig1mk) <br>
+An example of BYOD in real life is an employee who is allowed to use his personal device for both official work in the office and personal use. One of the benefits of implementing this policy is that BYOD can increase employee productivity, but on the other hand, if an employee loses his personal device, then attackers can easily get company information.
 <br>
 <hr>
 &copy; Version: 2022.
