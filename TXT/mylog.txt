@@ -46,4 +46,6 @@ ZCZC W03 10 L04 GitHub Pages related
 ZCZC W03 45 L05 Quiz related including studying
 ZCZC W03 120 L09 Weekly Assignments
 ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 3 L62 Backup Virtual Debian Guest
+ZCZC W03 10 L26 Encrypt/decrypt file.
 ZCZC W03 10 L41 TXT/mylog.txt related.
