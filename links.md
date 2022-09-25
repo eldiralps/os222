@@ -25,6 +25,13 @@ This video will give you more information about the most common types of cyber a
 
 4. [WEEK 02 - Pros and Cons of BYOD](https://www.youtube.com/watch?v=kVNDl7ig1mk) <br>
 An example of BYOD in real life is an employee who is allowed to use his personal device for both official work in the office and personal use. One of the benefits of implementing this policy is that BYOD can increase employee productivity, but on the other hand, if an employee loses his personal device, then attackers can easily get company information.
+
+5. [WEEK 03 - File System Structure Articles](https://www.notion.so/Lecture-20-File-System-Structure-and-File-Links-f84da2a1bfe24d129f6e07620084ee68) <br>
+Data about files and other info about storage on a device is called metadata. Usually, a disk device has one or more directories (or tables) to store metadata. These directories can be arranged in different ways such as single-level, two-level, tree stuctured, etc.
+
+7. [WEEK 03 - Basic File Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo) <br>
+This tutorial can help you to encrypt files with GPG key pairs.
+
 <br>
 <hr>
 &copy; Version: 2022.
