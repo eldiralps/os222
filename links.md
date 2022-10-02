@@ -32,6 +32,12 @@ Data about files and other info about storage on a device is called metadata. Us
 7. [WEEK 03 - Basic File Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo) <br>
 This tutorial can help you to encrypt files with GPG key pairs.
 
+8. [WEEK 04 - Memory Management](https://www.massey.ac.nz/~mjjohnso/notes/59305/mod8.html) <br>
+Program must be brought into memory and placed within a process for it to be executed. The binding of instructions and data to the memory addresses can be done at any of the following steps of program execution which is complile time, load time, and execution time.
+
+9. [WEEK 04 - How to Map Files into Memory in C] (https://www.youtube.com/watch?v=m7E9piHcfr4) <br>
+ This is a youtube video that explains about how to map files into memory in c language. You will understand the explanation easily because the speaker provides examples that the audience can easily understand.
+
 <br>
 <hr>
 &copy; Version: 2022.
