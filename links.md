@@ -35,8 +35,17 @@ This tutorial can help you to encrypt files with GPG key pairs.
 8. [WEEK 04 - Memory Management](https://www.massey.ac.nz/~mjjohnso/notes/59305/mod8.html) <br>
 Program must be brought into memory and placed within a process for it to be executed. The binding of instructions and data to the memory addresses can be done at any of the following steps of program execution which is complile time, load time, and execution time.
 
-9. [WEEK 04 - How to Map Files into Memory in C] (https://www.youtube.com/watch?v=m7E9piHcfr4) <br>
+9. [WEEK 04 - How to Map Files into Memory in C](https://www.youtube.com/watch?v=m7E9piHcfr4) <br>
  This is a youtube video that explains about how to map files into memory in c language. You will understand the explanation easily because the speaker provides examples that the audience can easily understand.
+ 
+10. [WEEK 05 - Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8) <br>
+Virtual Memory maps program address to RAM address. Virtual memory gives us flexibility in how we use the RAM.
+
+12. [WEEK 05 - Thrashing](https://www.youtube.com/watch?v=vtyXZWp9Fsk) <br>
+Thrashing is what happens when a program is spending more time paging than actually executing. This video explains what causes of thrashing and the solutions of it.
+
+13. [WEEK 05 - Page Replacement Algorithm](https://www.youtube.com/watch?v=2XMVk5YA7vA) <br>
+Page replacement algorithms decide which memory pages to page out, sometimes called swap out, or write to disk, when a page of memory needs to be allocated. Every different page replacement algorithms suggest different ways to decide which page to replace.
 
 <br>
 <hr>
