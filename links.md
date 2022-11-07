@@ -47,6 +47,15 @@ Thrashing is what happens when a program is spending more time paging than actua
 13. [WEEK 05 - Page Replacement Algorithm](https://www.youtube.com/watch?v=2XMVk5YA7vA) <br>
 Page replacement algorithms decide which memory pages to page out, sometimes called swap out, or write to disk, when a page of memory needs to be allocated. Every different page replacement algorithms suggest different ways to decide which page to replace.
 
+14. [WEEK 06 - Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.) <br>
+This website contains information related to this week's material, which is about concurrency. Concurrency is the execution of the multiple instruction sequences at the same time. It happens in the operating system when there are several process threads running in parallel.
+
+16. [WEEK 06 - Fork system call](https://www.geeksforgeeks.org/fork-system-call/) <br>
+This website explains about forks, their uses, and examples of how to use the fork function. The fork system call creates a new process. The new process created by fork() is a copy of the current process except for the returned value.
+
+17. [WEEK 06 - What does Execlp do in C?](https://support.sas.com/documentation/onlinedoc/ccompiler/doc/lr2/execlp.htm) <br>
+Like all of the exec functions, execlp replaces the calling process image with a new process image. This has the effect of running a new program with the process ID of the calling process.
+
 <br>
 <hr>
 &copy; Version: 2022.
