@@ -56,6 +56,11 @@ This website explains about forks, their uses, and examples of how to use the fo
 17. [WEEK 06 - What does Execlp do in C?](https://support.sas.com/documentation/onlinedoc/ccompiler/doc/lr2/execlp.htm) <br>
 Like all of the exec functions, execlp replaces the calling process image with a new process image. This has the effect of running a new program with the process ID of the calling process.
 
+18. [WEEK 07 -Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. Deadlock can arise if the following four conditions hold simultaneously
+
+19. [WEEK 07 -Linux Kernel Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2)
+This repository contains code demonstrations for Linux Kernel Programming. I got this link from my friend that recommend me to rad topics related to this week topic.
 <br>
 <hr>
 &copy; Version: 2022.
