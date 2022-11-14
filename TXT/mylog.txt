@@ -77,3 +77,12 @@ ZCZC W06 10 L04 GitHub Pages related
 ZCZC W06 60 L05 Quiz related including studying
 ZCZC W06  3 L05 QUIZ
 ZCZC W06 100 L09 Weekly Assignments
+ZCZC W07 20 L00 General, etc.
+ZCZC W07 20 L01 SCELE/Discord related
+ZCZC W07 200 L99 Face-to-face lecture
+ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 10 L03 GitHub related
+ZCZC W07 10 L04 GitHub Pages related
+ZCZC W07 60 L05 Quiz related including studying
+ZCZC W07  3 L05 QUIZ
+ZCZC W07 100 L09 Weekly Assignments
