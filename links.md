@@ -56,11 +56,24 @@ This website explains about forks, their uses, and examples of how to use the fo
 17. [WEEK 06 - What does Execlp do in C?](https://support.sas.com/documentation/onlinedoc/ccompiler/doc/lr2/execlp.htm) <br>
 Like all of the exec functions, execlp replaces the calling process image with a new process image. This has the effect of running a new program with the process ID of the calling process.
 
-18. [WEEK 07 -Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+18. [WEEK 07 - Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
 Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. Deadlock can arise if the following four conditions hold simultaneously
 
-19. [WEEK 07 -Linux Kernel Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2)
+19. [WEEK 07 - Linux Kernel Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming-Part-2)
 This repository contains code demonstrations for Linux Kernel Programming. I got this link from my friend that recommend me to rad topics related to this week topic.
+
+20. [WEEK 08 - Preemptive and Non-Preemptive Scheduling](https://www.youtube.com/watch?v=4DhFmL-6SDA)
+The striking difference between non-preemptive/cooperative scheduling and preemptive scheduling is in under non-preemptive/cooperative scheduling, once the CPU has been allocated, the process keeps the CPU until it releases it either by terminating or switching to the waiting state. Meanwhile, preemptive scheduling can result in race conditions, when data is shared among several processes. This can create inconsistent states in the data if two processes are updating/accessing the data at the same time.
+
+22. [WEEK 08 - CPU Scheduling Algorithms](https://www.notion.so/Lecture-11-CPU-Scheduling-Algorithms-0dcfb5651d144b478d76788fbf1d5807)
+CPU scheduling deals with the problem of deciding which of the processes in the ready queue is to be allocated the CPU’s core. There are many different algorithms for this such as First-Come First-Served, Round Robid, etc. The site above contains a variety of scheduling, priority scheduling, handling piorities, multilevel queue scheduling and multiple-processor scheduling.
+
+23. [WEEK 08 - Real-time CPU Scheduling](https://www.notion.so/Lecture-12-Real-time-CPU-Scheduling-4584438900fd4467a861afbcce04c3c5)
+For those of you who are still guessing about what scheduling is and how to calculate it, i recommend you to visit the website above because the summary is quite complete.
+
+25. [WEEK 08 - LFS](https://www.youtube.com/watch?v=7ukLbyTTwGo&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+This playlist video really helped me with my assignment this week. The speaker explained step by step clearly and referred to the book Linux From Scratch.
+
 <br>
 <hr>
 &copy; Version: 2022.
