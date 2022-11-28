@@ -97,3 +97,14 @@ ZCZC W08 10 L04 GitHub Pages related
 ZCZC W08 10 L41 TXT/mylog.txt related
 ZCZC W08 30 L43 TXT/myrank.txt, including peer review
 ZCZC W08 10 L45 TXT/SHA256SUM related
+ZCZC W09 20 L01 SCELE/Discord related
+ZCZC W09 100 L99 Face-to-face lecture
+ZCZC W09 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 60 L05 Quiz related including studying
+ZCZC W09  3 L05 QUIZ
+ZCZC W09 265 L09 Weekly Assignments
+ZCZC W09 120 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 15 L04 GitHub Pages related
+ZCZC W09 10 L41 TXT/mylog.txt related
+ZCZC W09 20 L43 TXT/myrank.txt, including peer review
+ZCZC W09 10 L45 TXT/SHA256SUM related
