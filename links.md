@@ -74,6 +74,15 @@ For those of you who are still guessing about what scheduling is and how to calc
 25. [WEEK 08 - LFS](https://www.youtube.com/watch?v=7ukLbyTTwGo&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
 This playlist video really helped me with my assignment this week. The speaker explained step by step clearly and referred to the book Linux From Scratch.
 
+26. [WEEK 09 - LFS Ch.6](https://www.youtube.com/watch?v=0745lbRUGVE)
+This video will explain you step by step in working on the LFS book chapter 6 (Cross Compiling Temporary Tools). 
+
+28. [WEEK 09 - LFS Ch.7](https://www.youtube.com/watch?v=zzxqYGHcL2c)
+This video will explain you step by step in working on the LFS book chapter 7 (Entering Chroot and Building Additional Temporary Tools). 
+
+30. [WEEK 09 - RAID Types](https://www.prepressure.com/library/technology/raid)
+RAID is a technology that is used to increase the performance and/or reliability of data storage. This site contains any explanation that will make you more familiar with the types of RAID such as RAID level 0, 1, 5, etc.
+
 <br>
 <hr>
 &copy; Version: 2022.
