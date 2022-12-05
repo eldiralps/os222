@@ -83,6 +83,15 @@ This video will explain you step by step in working on the LFS book chapter 7 (E
 30. [WEEK 09 - RAID Types](https://www.prepressure.com/library/technology/raid) <br>
 RAID is a technology that is used to increase the performance and/or reliability of data storage. This site contains any explanation that will make you more familiar with the types of RAID such as RAID level 0, 1, 5, etc.
 
+31. [WEEK 10 - LFS Ch.8](https://www.youtube.com/watch?v=vsPnrirvSnQ) <br>
+This video will  will help you a lot in working on LFS chapter 8.
+
+32. [WEEK 10 - I/O System and I/O Hardware](https://www.w3schools.in/operating-system/input-output) <br>
+The controlling of various devices that are connected to the computer is a key concern of operating-system designers. This is because I/O devices vary so widely in their functionality and speed (for example a mouse, a hard disk and a CD-ROM), varied methods are required for controlling them. For more details, an explanation about i/o is in the link above.
+
+33. [WEEK 10 - Kernel I/O Subsystem](https://www.geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/) <br>
+The kernel provides many services related to I/O. Several services such as scheduling, caching, spooling, device reservation, and error handling – are provided by the kernel. A more complete explanation of some of these services is in the link above.
+
 <br>
 <hr>
 &copy; Version: 2022.
